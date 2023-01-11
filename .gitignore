@@ -41,6 +41,7 @@ public/dist/
 dist/
 tmp/
 build/
+buildMain
 
 # OSX
 .DS_Store
